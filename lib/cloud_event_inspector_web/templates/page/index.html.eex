@@ -1,0 +1,17 @@
+<div id="total"></div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h5>Matched</h5>
+      <ul id="matched">
+
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h5>Invalid</h5>
+      <ul id="invalid">
+
+      </ul>
+    </td>
+  </tr>
+</table>
